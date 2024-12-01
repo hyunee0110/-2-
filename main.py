@@ -1,4 +1,4 @@
 import module_a
 import module_b
 
-print(printgraph(chosen_subject))
+printgraph(chosen_subject('20231231.csv'))
