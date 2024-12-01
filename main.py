@@ -1,4 +1,4 @@
-import module_a.py
-import 파일 입출력.py
+import module_a
+import module_b
 
 print(printgraph(chosen_subject))
