@@ -49,5 +49,3 @@ def chosen_subject(): #선택된 과목의 리스트 만들기
     final_list.append(chosen_subject_list)
     final_list.append(file[0:4])
     return final_list
-
-print(chosen_subject())
